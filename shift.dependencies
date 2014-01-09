@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "android_device_lge_hammerhead",
+    "target_path": "device/lge/hammerhead",
+    "revision": "shift-4.4"
+  },
+  {
+    "remote": "github",
+    "repository": "android_kernel_lge_hammerhead",
+    "target_path": "kernel/lge/hammerhead",
+    "revision": "shift-4.4"
+  },
+  {
+    "remote": "github",
+    "repository": "proprietary_vendor_lge",
+    "target_path": "vendor/lge",
+    "revision": "shift-4.4"
+  }
+]
