@@ -16,4 +16,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_hammerhead.mk \
-    $(LOCAL_DIR)/shift_hammerhead.mk
+    $(LOCAL_DIR)/shift.mk
